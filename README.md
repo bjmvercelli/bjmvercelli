@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bjmvercelli
-- 👀 I’m interested in Cyber Security
+- 👀 I’m interested in Cyber Security and Web Development
 - 🌱 I’m currently learning Networking, Coding and Hacking
-- 💞️ I’m looking to collaborate on any project relacionated with Pentesting tools
+- 💞️ I’m looking to collaborate on any project relacionated with Pentesting tools, Webtools
 - 📫 How to reach me: bvercelli.itajuba@gmail.com
 
 <!---

@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bjmvercelli
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Software Engineering
 - 📫 How to reach me: bvercelli.itajuba@gmail.com
 
 <!---
